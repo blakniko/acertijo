@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Acertijo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="instrucciones">Para descubir la palabra oculta, primero ingrese una letra, está aparecerá de color morado si es que se encuentra en la palabra pero no en la posición, si la letra aparece de color verde es por que además de encontrarse en la palabra, está en la posición correcta</string>
+    <string name="win">Haz tenido suerte esta vez, haz descubierto el enigma, para la proxima vez no te será tan facil murcielago...</string>
+    <string name="title_newfeature">newfeature</string>
+    <string name="title_acertijofeature">Acertijo</string>
+
+</resources>
